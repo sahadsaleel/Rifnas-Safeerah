@@ -8,7 +8,9 @@ const images = [
   "/couplesimg/image3.jpg",
   "/couplesimg/image4.jpg",
   "/couplesimg/image5.jpeg",
-  "/couplesimg/image6.jpeg"
+  "/couplesimg/image6.jpeg",
+  "/couplesimg/image7.jpeg",
+  "/couplesimg/image8.jpeg"
 ];
 
 const Gallery = () => {

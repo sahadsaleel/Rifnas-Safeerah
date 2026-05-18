@@ -61,7 +61,7 @@ const BrideGroom = () => {
           >
             <div className="relative w-64 h-80 md:w-80 md:h-96 mb-8 rounded-t-full overflow-hidden border-8 border-white shadow-xl">
               <img 
-                src="/groom/rifnas.png" 
+                src="/groom/rifnas.jpeg" 
                 alt="Rifnas - The Groom" 
                 className="w-full h-full object-cover"
               />
